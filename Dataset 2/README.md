@@ -27,4 +27,14 @@ The task is to create a model using the raccoon-ai engine to predict insurance c
 
 Using the provided features such as age, gender, BMI, number of children, smoking status, region, medical history, family medical history, exercise frequency, occupation, and coverage level, the model will be trained to understand the impact of these factors on insurance charges. It will then generalize this knowledge to predict charges for new, unseen policy holders.
 
-Note: Please ensure that you have access to the raccoon-ai engine and its documentation for more specific instructions and guidelines on how to utilize its functionalities to create the desired model.
+**Note**: Please ensure that you have access to the Raccoon-AI engine and its documentation for more specific instructions and guidelines on how to utilize its functionalities to create the desired model.
+
+- Documentation: <https://docs.raccoon-ai.io/>
+- Raccoon-AI Engine: <https://engine.raccoon-ai.io/>
+- Console: <https://console.raccoon-ai.io/>
+
+## Files
+
+- **train-set.csv** - The training dataset that you will use to train your model.
+- **test-set.csv** - The test dataset that you will need to make predictions on and submit for the evaluation.
+- **sample_submission.csv** - A sample submission file in the correct format that you will need to follow when submitting your predictions for the evaluation. (Rename this file to `submission-<team_name>-<dataset_2>.csv` before submitting your predictions.)
