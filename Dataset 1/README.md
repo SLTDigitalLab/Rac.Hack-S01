@@ -50,3 +50,15 @@ The task at hand is to train a model that can accurately predict the target vari
 To accomplish this task, you need to apply machine learning techniques using Raccoon-AI engine to analyze the provided dataset and develop a model that can effectively classify MQTT traffic based on the given features.
 
 For more detailed information about the dataset and its features, you can refer to the provided link: <https://www.mdpi.com/1424-8220/20/22/6578/htm>
+
+**Note**: Please ensure that you have access to the Raccoon-AI engine and its documentation for more specific instructions and guidelines on how to utilize its functionalities to create the desired model.
+
+- Documentation: <https://docs.raccoon-ai.io/>
+- Raccoon-AI Engine: <https://engine.raccoon-ai.io/>
+- Console: <https://console.raccoon-ai.io/>
+
+## Files
+
+- **train-set.csv** - The training dataset that you will use to train your model.
+- **test-set.csv** - The test dataset that you will need to make predictions on and submit for the evaluation.
+- **sample_submission.csv** - A sample submission file in the correct format that you will need to follow when submitting your predictions for the evaluation. (Rename this file to `submission-<team_name>-<dataset_1>.csv` before submitting your predictions.)
